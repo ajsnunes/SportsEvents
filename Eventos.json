@@ -1,0 +1,27 @@
+﻿{
+  "Events":[
+    {
+      "ClubEmail": "ajsilvanunes@outlook.com",
+      "Clublat": 0,
+      "Clublong": 0,
+      "ClubName": "Circuito de Golfe Abreu",
+      "ClubTelephone": "968058080",
+      "EventYear": 2018,
+      "EventMonth": 7,
+      "EventDay": 7,
+      "EventState": 1,
+      "FieldEmail": "a@a.com",
+      "FieldID": "EGC",
+      "FieldImage": "GCEstela_Logo.jpg",
+      "FieldLatitude": 41.457748,
+      "FieldLongitude": -8.776102,
+      "FieldName": "Estela Golf Club",
+      "Fieldtelephone": "252601567",
+      "ImageUrl": "Abreu.jpg",
+      "LongDescription": "Circuito de Golfe da agência Abreu 2018.",
+      "ShortDescription": "Local - Estela Golf Club",
+      "Topic": "Circuito de Golfe Abreu"
+    }
+  ]
+}
+
